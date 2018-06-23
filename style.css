@@ -19,7 +19,17 @@ div {
   margin: 2% 0% 1% 39%;
 }
 .p {
-  font-size: 2vw;
+  font-size: 150%;
   text-decoration-color: #1900ff;
   font-family: 'Orbitron', sans-serif;
+  border: 0;
+  border-bottom-left-radius: 55%;
+  border-bottom-right-radius: 55%;
+  box-shadow: 5px 3px 15px rgba(26, 253, 45, 1);
+}
+.p:hover,
+.p:active {
+  background: linear-gradient(to left, #ff0066 -1%, #3399ff 50%);
+  border-bottom-left-radius: 55%;
+  border-bottom-right-radius: 55%;
 }
