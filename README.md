@@ -1,1 +1,1 @@
-# synthon.github.io
+# https://synthon.github.io
